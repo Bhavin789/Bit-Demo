@@ -10,37 +10,3 @@ Go through the full step-by-step tutorial here: https://docs.bit.dev/docs/tutori
 ## Overview
 
 Bit lets you share and sync components between different projects and applications. As the name suggests, it's kinda of a `git` for React. Deployed on `git` concepts, so far, it has been easy to adopt as it's very much relatable.
-
-### Prior Knowledge
-
-This tutorial assumes that you are familiar with:
-
-- Terminal and command line.
-- Using node and npm or yarn.
-- React development and React CRA, including editing React files in your favorite code editor.
-- Git
-
-### What Do You Need?
-
-You need to verify that you have:
-
-- Node 8.12+
-
-To run this tutorial, clone and setup the React tutorial project: https://github.com/teambit/bit-react-tutorial
-
-```bash
-git clone https://github.com/teambit/bit-react-tutorial
-cd bit-react-tutorial
-yarn
-```
-
-### What Will You Learn?
-
-In this tutorial you will learn how to:
-
-- Setup Bit
-- Share a React component from an existing project
-- Preview the exported component on the Bit cloud
-- Install the component in another project
-- Modify the React component on the new project
-- Get component updates
